@@ -1,1 +1,1 @@
-# ZheshengZhang-PHBS_TQFML-Project
+# LSTM-based method for stock returns prediction
