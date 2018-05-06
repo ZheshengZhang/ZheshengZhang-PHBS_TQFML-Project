@@ -8,7 +8,8 @@ TensorFlow 1.3.0 (the version is very important since the TensorFlow package may
 
 ## Long Term Short Memory  
 ![RNN-rolled](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project/raw/master/images/RNN-rolled.png)  
-[reference](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+  
+Reference:[http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 
 ## Basic method
