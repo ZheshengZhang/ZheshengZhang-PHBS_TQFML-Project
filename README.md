@@ -7,7 +7,7 @@ Python 3.6
 TensorFlow 1.3.0 (the version is very important since the TensorFlow package may change a lot in different versions，it will run error in other versions)
 
 ## Long Term Short Memory  
-![image](http://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project/raw/master/images/RNN-rolled.png）
+![image](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project/blob/master/images/RNN-rolled.png）
 
 ## Basic method
 In LSTM model for stock prediction, one sequence was defined as a sequential collection of the daily dataset of any single stock in a fixed time period (N days). The daily dataset describes the performance of the stock with sequence learning features like closing price, trade volume on one particular day in these N days. 
