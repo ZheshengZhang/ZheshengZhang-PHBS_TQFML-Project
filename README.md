@@ -3,7 +3,7 @@
 Team member:  Zhesheng Zhang  (individual)
 
 ## Environment
-Python 3.6
+Python 3.6  
 TensorFlow 1.3.0 (the version is very important since the TensorFlow package may change a lot in different versions)
 
 ## Basic method
@@ -16,6 +16,5 @@ All A share stocks from 2004 Jan.2 to 2018 Jan.4 including open,close,high and l
 By using LSTM method, we plan to get stock return prediction and try to find good features in predicting stocks trend in several days. And I make a simple trading strategy by considering whether the predicted return will be postitive the next day. It will give us a buying or selling signal. I compared the strategy net value by the real stock net value.
 
 ## Reference
-1.Krollner, Bjoern, Bruce Vanstone, and Gavin Finnie. "Financial time series forecasting with machine learning techniques: A survey." (2010).  
-
+1.Krollner, Bjoern, Bruce Vanstone, and Gavin Finnie. "Financial time series forecasting with machine learning techniques: A survey." (2010).    
 2.Chen, K., Zhou, Y., & Dai, F. (2015). A LSTM-based method for stock returns prediction: A case study of China stock market. IEEE International Conference on Big Data (pp.2823-2824). IEEE.
