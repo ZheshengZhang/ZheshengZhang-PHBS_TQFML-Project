@@ -36,8 +36,15 @@ All A share stocks from 2004 Jan.2 to 2018 Jan.4 including open,close,high and l
 5.  Trade Values  
 6.  Turnover
 
-## Brief plan
-By using LSTM method, we plan to get stock return prediction and try to find good features in predicting stocks trend in several days. And I make a simple trading strategy by considering whether the predicted return will be postitive the next day. It will give us a buying or selling signal. I compared the strategy net value by the real stock net value.
+tips:    Here the all A shares data is too big, so I didn't upload them.
+
+## My trading strategy
+since we have predicted the return, we make simple trading strategy:  
+If the predicted return tomorrow is positive, you are buying or still owing the stock by the end of closing  
+If the predicted return tomorrow is negative, you are selling or keeping no shares by the end of closing  
+
+tips:1.we consider the trading cost as 0.3%  
+     2.The buying or selling price is close to the ClosePrice that day  
 
 ## Reference
 1.Krollner, Bjoern, Bruce Vanstone, and Gavin Finnie. "Financial time series forecasting with machine learning techniques: A survey." (2010).    
