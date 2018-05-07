@@ -9,6 +9,15 @@ TensorFlow 1.3.0 (the version is very important since the TensorFlow package may
 ## Long Term Short Memory  
 Traditional RNN 
 ![RNN_unrolled](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project/raw/master/images/RNN-unrolled.png) 
+
+Long Term dependency problem  
+![RNN_unrolled](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project/raw/master/images/RNN-longtermdependencies.png) 
+
+RNN structure  
+![RNN_unrolled](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project/raw/master/images/LSTM3-SimpleRNN.png) 
+
+LSTM structure
+![RNN_unrolled](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project/raw/master/images/LSTM3-chain.png) 
   
 Reference:  [http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
