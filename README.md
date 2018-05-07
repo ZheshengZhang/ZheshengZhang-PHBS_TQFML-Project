@@ -39,12 +39,21 @@ All A share stocks from 2004 Jan.2 to 2018 Jan.4 including open,close,high and l
 tips:    Here the all A shares data is too big, so I didn't upload them.
 
 ## My trading strategy
-since we have predicted the return, we make simple trading strategy:  
+Since we have predicted the return, we make simple trading strategy:  
 If the predicted return tomorrow is positive, you are buying or still owing the stock by the end of closing  
 If the predicted return tomorrow is negative, you are selling or keeping no shares by the end of closing  
 
-tips:1.we consider the trading cost as 0.3%  
+Tips:1.we consider the trading cost as 0.3%  
      2.The buying or selling price is close to the ClosePrice that day  
+
+## Result Analysis
+I choose 4 typical stocks to analysis
+1.  600519.SH  MouTai  "White Horse" stock
+2.  600019.SH  BaoGang  Strong cyclical stock
+3.  601398.SH  ICBC  Bank stock
+4.  300431.SZ  BaoFeng Tech.  "Demon" stock，unnormal stock
+
+
 
 ## Reference
 1.Krollner, Bjoern, Bruce Vanstone, and Gavin Finnie. "Financial time series forecasting with machine learning techniques: A survey." (2010).    
