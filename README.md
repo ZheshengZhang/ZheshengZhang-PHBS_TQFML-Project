@@ -50,6 +50,8 @@ Tips:1.we consider the trading cost as 0.3%
 I choose 4 typical stocks to analysis
 1.  600519.SH  MouTai  "White Horse" stock  [result_analysis1.ipynb](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project/blob/master/result_analysis1.ipynb)  
 
+![result1_1](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project/raw/master/images/result1_1.png)  ![result1_2](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project/raw/master/images/result1_2.png)  ![result1_3](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project/raw/master/images/result1_3.png)  
+
 
 
 2.  600019.SH  BaoGang  Strong cyclical stock
