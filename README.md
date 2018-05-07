@@ -51,7 +51,7 @@ I choose 4 typical stocks to analysis
 1.  600519.SH  MouTai  "White Horse" stock
 2.  600019.SH  BaoGang  Strong cyclical stock
 3.  601398.SH  ICBC  Bank stock
-4.  300431.SZ  BaoFeng Tech.  "Demon" stock，unnormal stock
+4.  300431.SZ  BaoFeng Tech.  "Demon" stock，abnormal stock
 
 
 
