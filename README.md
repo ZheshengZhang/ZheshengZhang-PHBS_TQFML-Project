@@ -70,7 +70,7 @@ acc = 0.689
 
 ![result4_1](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project/raw/master/images/result4_1.png)  ![result4_2](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project/raw/master/images/result4_2.png)  ![result4_3](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project/raw/master/images/result4_3.png)  
 
-acc = 0.5  
+acc = 0.55   
 
 ## Reference
 1.Krollner, Bjoern, Bruce Vanstone, and Gavin Finnie. "Financial time series forecasting with machine learning techniques: A survey." (2010).    
