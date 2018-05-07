@@ -54,9 +54,19 @@ I choose 4 typical stocks to analysis
 
 
 
-2.  600019.SH  BaoGang  Strong cyclical stock
-3.  601398.SH  ICBC  Bank stock
-4.  300431.SZ  BaoFeng Tech.  "Demon" stock，abnormal stock
+2.  600019.SH  BaoGang  Strong cyclical stock  [result_analysis2.ipynb](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project/blob/master/result_analysis2.ipynb)  
+
+![result2_1](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project/raw/master/images/result2_1.png)  ![result2_2](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project/raw/master/images/result2_2.png)  ![result2_3](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project/raw/master/images/result2_3.png)  
+
+
+3.  601398.SH  ICBC  Bank stock  [result_analysis3.ipynb](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project/blob/master/result_analysis3.ipynb)  
+
+![result3_1](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project/raw/master/images/result3_1.png)  ![result3_2](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project/raw/master/images/result3_2.png)  ![result3_3](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project/raw/master/images/result3_3.png)  
+
+
+4.  300431.SZ  BaoFeng Tech.  "Demon" stock，abnormal stock  [result_analysis4.ipynb](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project/blob/master/result_analysis4.ipynb)  
+
+![result4_1](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project/raw/master/images/result4_1.png)  ![result4_2](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project/raw/master/images/result4_2.png)  ![result4_3](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project/raw/master/images/result4_3.png)  
 
 
 
