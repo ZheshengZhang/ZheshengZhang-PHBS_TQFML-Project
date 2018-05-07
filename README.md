@@ -26,7 +26,7 @@ Reference:    [http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http:/
 In LSTM model for stock prediction, one sequence was defined as a sequential collection of the daily dataset of any single stock in a fixed time period (20 days). The daily dataset describes the performance of the stock with sequence learning features like closing price, trade volume on one particular day in these 20 days. The prediction target will be today's return rate (regression model) or whhether the return is positive (classification model).
 
 ## Raw Data Set and Clean data
-All A share stocks from 2004 Jan.2 to 2018 Jan.4 including open,close,high and low daily prices, trade volume and turnover rate. We choose 4 typical stocks and merge all the features data, then clean the data with cleaning.ipynb. The final data will be saved as 'stock_code.csv'  
+All A share stocks from 2004 Jan.2 to 2018 Jan.4 including open,close,high and low daily prices, trade volume and turnover rate. We choose 4 typical stocks and merge all the features data, then clean the data with [cleaning.ipynb](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project/blob/master/cleaning.ipynb). The final data will be saved as 'stock_code.csv'  
 
 ### features  
 1.  Open price  
