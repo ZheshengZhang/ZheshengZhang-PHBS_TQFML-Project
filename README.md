@@ -48,7 +48,10 @@ Tips:1.we consider the trading cost as 0.3%
 
 ## Result Analysis
 I choose 4 typical stocks to analysis
-1.  600519.SH  MouTai  "White Horse" stock
+1.  600519.SH  MouTai  "White Horse" stock  [result_analysis1.ipynb](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project/blob/master/result_analysis1.ipynb)  
+
+
+
 2.  600019.SH  BaoGang  Strong cyclical stock
 3.  601398.SH  ICBC  Bank stock
 4.  300431.SZ  BaoFeng Tech.  "Demon" stock，abnormal stock
